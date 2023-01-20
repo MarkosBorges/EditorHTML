@@ -1,0 +1,15 @@
+C:\dev\HTML3\bin\Debug\net7.0\Html3.exe
+C:\dev\HTML3\bin\Debug\net7.0\Html3.deps.json
+C:\dev\HTML3\bin\Debug\net7.0\Html3.runtimeconfig.json
+C:\dev\HTML3\bin\Debug\net7.0\Html3.dll
+C:\dev\HTML3\bin\Debug\net7.0\Html3.pdb
+C:\dev\HTML3\obj\Debug\net7.0\Html3.csproj.AssemblyReference.cache
+C:\dev\HTML3\obj\Debug\net7.0\Html3.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\HTML3\obj\Debug\net7.0\Html3.AssemblyInfoInputs.cache
+C:\dev\HTML3\obj\Debug\net7.0\Html3.AssemblyInfo.cs
+C:\dev\HTML3\obj\Debug\net7.0\Html3.csproj.CoreCompileInputs.cache
+C:\dev\HTML3\obj\Debug\net7.0\Html3.dll
+C:\dev\HTML3\obj\Debug\net7.0\refint\Html3.dll
+C:\dev\HTML3\obj\Debug\net7.0\Html3.pdb
+C:\dev\HTML3\obj\Debug\net7.0\Html3.genruntimeconfig.cache
+C:\dev\HTML3\obj\Debug\net7.0\ref\Html3.dll
